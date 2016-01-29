@@ -1,0 +1,11 @@
+工#w-ēi|加声调的w-ēi
+工#h-uī|加声调的h-uī
+工#h-uī
+工#1|
+发#1||
+f#|||1
+f#|C0,FA|g-ōng 公|main,wmh
+工#|C0,FA|小鸟|main,show,cword|p089_006_e
+11#4|C0,FA|下面哪个字读“běi”？|screen|p999_999_e
+111#42|C0,LG||edit
+11#4|C0,FA|下面哪个字读“běi”？|screen|p999_999_e

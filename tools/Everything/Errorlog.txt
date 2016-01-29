@@ -1,0 +1,29 @@
+2010-3-9 14:20:25: Everything 1.2.1.442a: .\src\mu.cpp(2680): mu_RenameFileUTF8(): MoveFileExW(): GetLastError(): 5: Failed to move file from C:\Documents and Settings\hlc\桌面\Everything\Everything\Everything.db to \\172.28.19.36\6$\Everything.db
+2010-3-9 14:46:02: Everything 1.2.1.442a: .\src\mu.cpp(2654): mu_CreateFileUTF8(): CreateFileW(): GetLastError(): 5: Failed to open file \\172.28.19.36\6$\Everything.db.tmp
+2010-3-9 15:00:37: Everything 1.2.1.442a: .\src\mu.cpp(2654): mu_CreateFileUTF8(): CreateFileW(): GetLastError(): 5: Failed to open file \\172.28.19.36\6$\Everything.db.tmp
+2010-3-9 15:08:20: Everything 1.2.1.442a: .\src\mu.cpp(2654): mu_CreateFileUTF8(): CreateFileW(): GetLastError(): 5: Failed to open file \\172.28.19.36\6$\Everything.db.tmp
+2010-3-9 18:31:58: Everything 1.2.1.442a: .\src\db_recent_changes.cpp(2339): db::_remove_recent_change(): failed to remove time sorted recent change.
+2010-3-17 14:06:21: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(810): mu::ShellExecuteExUTF8(): ShellExecuteExW(): GetLastError(): 2: failed to execute C:\Documents and Settings\Administrator\My Documents\My Music\iTunes\iTunes Music\抢先听\歌曲试听\01 帝王之恋.m4a
+2010-3-19 15:48:27: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory G:\
+2010-3-19 15:49:12: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-3-22 14:05:45: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory G:\
+2010-3-22 14:05:46: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-3-23 17:51:42: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory G:\
+2010-3-23 17:51:44: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-3-24 16:13:30: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-3-24 17:59:16: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-3-24 17:59:42: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(524): mu::OpenVolume(): CreateFileW(): GetLastError(): 2: Failed to open volume \\.\G:
+2010-3-24 17:59:43: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(524): mu::OpenVolume(): CreateFileW(): GetLastError(): 2: Failed to open volume \\.\G:
+2010-3-24 17:59:43: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(524): mu::OpenVolume(): CreateFileW(): GetLastError(): 2: Failed to open volume \\.\G:
+2010-4-2 20:49:39: Everything 1.2.1.442a: .\src\tray.cpp(60): tray::_add_taskbar_icon(): Failed to notify shell icon, GetLastError(): 0
+2010-4-11 10:37:10: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-4-12 8:14:37: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-4-12 10:03:42: Everything 1.2.1.442a: .\src\mu.cpp(2680): mu_RenameFileUTF8(): MoveFileExW(): GetLastError(): 5: Failed to move file from C:\Documents and Settings\hlc\桌面\Everything\Everything\SearchHistory.xml.tmp to C:\Documents and Settings\hlc\桌面\Everything\Everything\SearchHistory.xml
+2010-4-12 15:22:48: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-4-14 20:02:00: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(545): mu::OpenRootDirectory(): CreateFileW(): GetLastError(): 5: Failed to root directory I:\
+2010-4-30 20:44:02: Everything 1.2.1.442a: .\src\db_recent_changes.cpp(2339): db::_remove_recent_change(): failed to remove time sorted recent change.
+2010-5-8 7:51:00: Everything 1.2.1.442a: .\src\tray.cpp(60): tray::_add_taskbar_icon(): Failed to notify shell icon, GetLastError(): 0
+2010-5-14 8:07:20: Everything 1.2.1.442a: .\src\mu.cpp(2680): mu_RenameFileUTF8(): MoveFileExW(): GetLastError(): 5: Failed to move file from C:\Documents and Settings\hlc\桌面\Everything\Everything\RunHistory.xml.tmp to C:\Documents and Settings\hlc\桌面\Everything\Everything\RunHistory.xml
+2010-8-31 9:45:30: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(844): mu::ShellExecuteExUTF8_idlist(): ShellExecuteExW(): GetLastError(): 6: failed to execute
+2010-11-12 20:11:34: Everything 1.2.1.442a: d:\dev\everything\src\mu.h(524): mu::OpenVolume(): CreateFileW(): GetLastError(): 2: Failed to open volume \\.\F:
+2011-4-22 16:03:11: Everything 1.2.1.451a: .\src\mu.cpp(4256): mu_open_volume(): CreateFileW(): GetLastError(): 2: Failed to open volume \\?\Volume{a2c1dcf5-32ea-11df-af40-0024211e7d6a}
